@@ -1,6 +1,10 @@
 Changelog
 =========
 
+1.8.17 (Unreleased)
+-------------------
+- Enh: Automated code refactoring for HumHub 1.18.0-beta.7 using Rector
+
 1.8.16 (July 17, 2026)
 ----------------------
 - Enh #708: Replace calendar filter checkboxes with dropdowns, Add new filter "Entire network"
